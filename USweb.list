@@ -1,4 +1,9 @@
-HOST-KEYWORD,amazon.com,USweb
+HOST-KEYWORD,amazon,USweb
+HOST-KEYWORD,github,USweb
+HOST-KEYWORD,instagram,USweb
+HOST-KEYWORD,twitter,USweb
+HOST-KEYWORD,whatsapp,USweb
+HOST-KEYWORD,facebook,USweb
 HOST-SUFFIX,amazon.com,USweb
 HOST-SUFFIX,walmart.com,USweb
 HOST-SUFFIX,ebay.com,USweb
